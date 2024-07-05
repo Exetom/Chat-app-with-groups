@@ -33,7 +33,7 @@ The Private Server Chat App is a mobile application built with React Native and 
 1. Clone the repository:
 
     ```
-        git clone https://github.com/your-username/private-server-chat-app.git
+        git clone https://github.com/Exetom/Chat-app-with-groups.git
         cd private-server-chat-app
     ```
 2. Install dependencies:
@@ -102,4 +102,4 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License.
 
 ### Contact
-For any questions or suggestions, please contact us at **(info@exetom.com)[mailto:info@exetom.com]**.
+For any questions or suggestions, please contact us at **[info@exetom.com](mailto:info@exetom.com)**.
