@@ -31,29 +31,38 @@ The Private Server Chat App is a mobile application built with React Native and 
 
 #### Steps
 1. Clone the repository:
+
     ```
         git clone https://github.com/your-username/private-server-chat-app.git
         cd private-server-chat-app
     ```
 2. Install dependencies:
+
     ```
         npm install 
     ```
 3. Clone the repository:
     * Initialize Amplify in your project:
+
         ```
             amplify init
         ```
+
     * Add authentication and GraphQL API:
+
         ```
             amplify add auth
             amplify add api
         ```
+
     * Push the configuration to AWS:
+
         ```
             amplify push
         ```
+
 4. Run the app:
+
     ```
         expo start
     ```
