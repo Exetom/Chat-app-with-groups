@@ -4,20 +4,20 @@
 The Private Server Chat App is a mobile application built with React Native and Expo, utilizing AWS Amplify for backend services and GraphQL for API interactions. This app provides secure, private communication channels for users, ensuring data privacy and integrity.
 
 ### Features
-* User Authentication: Secure user sign-up and sign-in using AWS Amplify Auth.
-* Real-time Messaging: Real-time chat functionality powered by GraphQL subscriptions.
-* Private Channels: Create and manage private chat channels.
-* Media Sharing: Share images and files within chat channels.
-* Push Notifications: Receive notifications for new messages.
-* Offline Support: Access chat history and send messages even when offline.
+* **User Authentication:** Secure user sign-up and sign-in using AWS Amplify Auth.
+* **Real-time Messaging:** Real-time chat functionality powered by GraphQL subscriptions.
+* **Private Channels:** Create and manage private chat channels.
+* **Media Sharing:** Share images and files within chat channels.
+* **Push Notifications:** Receive notifications for new messages.
+* **Offline Support:** Access chat history and send messages even when offline.
 
 
 ### Tech Stack
 
-* React Native: Framework for building native apps using React.
-* Expo: Platform for universal React applications.
-* AWS Amplify: Set of tools and services to help build secure, scalable applications.
-* GraphQL: Query language for your API.
+* **React Native:** Framework for building native apps using React.
+* **Expo:** Platform for universal React applications.
+* **AWS Amplify:** Set of tools and services to help build secure, scalable applications.
+* **GraphQL:** Query language for your API.
 
 ### Installation
 
@@ -71,16 +71,16 @@ The Private Server Chat App is a mobile application built with React Native and 
 
 #### User Authentication
 
-* Sign Up: Users can create a new account using their email.
-* Sign In: Users can log in with their email and password.
-* Forgot Password: Users can reset their password if they forget it.
+* **Sign Up:** Users can create a new account using their email.
+* **Sign In:** Users can log in with their email and password.
+* **Forgot Password:** Users can reset their password if they forget it.
 
 #### Chat Functionality
 
-* Create Channel: Users can create a private chat channel.
-* Join Channel: Users can join an existing chat channel.
-* Send Messages: Users can send text messages and media files.
-* Receive Messages: Users receive messages in real-time.
+* **Create Channel:** Users can create a private chat channel.
+* **Join Channel:** Users can join an existing chat channel.
+* **Send Messages:** Users can send text messages and media files.
+* **Receive Messages:** Users receive messages in real-time.
 
 #### Notifications
 
@@ -102,4 +102,4 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License.
 
 ### Contact
-For any questions or suggestions, please contact us at [info@exetom.com].
+For any questions or suggestions, please contact us at **(info@exetom.com)[mailto:info@exetom.com]**.
